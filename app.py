@@ -8,8 +8,8 @@ from src.pipeline.predict_pipeline import CustomData, PredictPipeline
 
 from src.exception import CustomException
 
-app = Flask(__name__)
-
+application = Flask(__name__)
+app = application
 #Route for home page
 @app.route('/')
 def index():
