@@ -82,6 +82,9 @@ The trained model is deployed using:
 Every push to the `main` branch triggers a build and deploys the latest version to AWS automatically.
 
 ---
+Thanks for reading!
+You can contact me here:
+LinkedIn URL: https://www.linkedin.com/in/pranit-gore-90097a274/
 
 ## 🗂️ Directory Structure
 
@@ -103,3 +106,4 @@ mlproject/
 ├── .github/workflows/      # CI/CD GitHub Actions workflows
 ├── README.md               # Project documentation
 └── setup.py                # Local package setup
+
