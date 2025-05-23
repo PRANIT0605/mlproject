@@ -1,5 +1,12 @@
  End-to-End Machine Learning Pipeline with Deployment on AWS
 
+
+
+Check out the live application here ->   
+http://end-to-endproject-env.eba-mpiwrvch.us-east-1.elasticbeanstalk.com/predict_datapoint
+
+
+
 This project demonstrates a full machine learning workflow — from data ingestion and preprocessing to model training and deployment. The final model is deployed using **AWS EC2 with Elastic Beanstalk**, and the deployment pipeline is automated via **CI/CD** tools for seamless updates.
 
 Developed a regression model to predict a student’s Mathematics score based on various socio-educational factors including gender, ethnicity, parental education level, lunch type, test preparation status, and their scores in Reading and Writing. The pipeline includes data preprocessing, feature engineering, model training, evaluation, and deployment.
